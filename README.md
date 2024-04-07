@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on how to make to make code for mods on games
 - 💞️ I’m looking to collaborate on making an minecraft mod called gunz and stuff vr
 - 📫 How to reach me to reach me my email is notaletdown13@gmail.com
-- 😄 Pronouns: He/Hime
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a fourth grade student that is really into coding and modding and making games
 
 <!---
